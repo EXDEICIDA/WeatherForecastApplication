@@ -1,0 +1,14 @@
+C:\Users\DEICIDA\source\repos\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+C:\Users\DEICIDA\source\repos\WeatherApplication\bin\Debug\WeatherApplication.exe
+C:\Users\DEICIDA\source\repos\WeatherApplication\bin\Debug\WeatherApplication.pdb
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.exe
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\DEICIDA\source\repos\WeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DEICIDA\source\repos\WeatherApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.CopyComplete
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.ForecastUC.resources
+C:\Users\DEICIDA\source\repos\WeatherApplication\obj\Debug\WeatherApplication.Form1.resources
