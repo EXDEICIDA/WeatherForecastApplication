@@ -19,7 +19,7 @@ The Weather Forecast Application is a desktop application built on the .NET plat
 *Screenshot 2: Weather Forecast Application - Search Results*
 
 ![Screenshot 3](PicturesWeather/Screenshot%202024-02-07%20025820.png)
-*Screenshot 3: Weather Forecast Application - Detailed Forecast*
+*Screenshot 3: Weather Forecast Application - GUI Elements On Windows Forms*
 
 ## Usage
 1. Upon launching the application, you'll be presented with the home screen displaying weather information.
