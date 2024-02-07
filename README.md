@@ -45,4 +45,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Special thanks to [Weather API Provider](https://example.com) for providing weather data.
+
+This project utilizes weather data provided by [OpenWeatherMap](https://openweathermap.org/). We acknowledge and appreciate their contribution to this project.
+
